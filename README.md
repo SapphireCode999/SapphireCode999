@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hidiat Ibrahim.
-- 👀 I build software with Machine learning and  Deep learning technologies, Web development(Javascript , Reactjs, Nodejs) and Mobile development with Swift and Flutter.
-- 💞️ I’m looking to collaborate on Machine learning, Deep learning, Web development and Mobile development with Swift and Flutter.
-- 📫 How to reach me bloomfountaincoder@gmail.com.
+- 👀 I build software with Machine learning and  Deep learning technologies, Large Language Models, AWS cloud,and Web development(Javascript , Reactjs, Nodejs).
+- 💞️ I’m looking to collaborate on Machine learning, Machine Learning and AI on AWS cloud, Deep learning, Large Language Models, Web development. 
+- 📫 How to reach me:
+- bloomfountaincoder@gmail.com.
 - https://www.linkedin.com/in/hidiat-ibrahim/
 - https://www.kaggle.com/yemi99/code?scroll=true
 - https://medium.com/@bloomfountaincoder
